@@ -1,3 +1,4 @@
+import '../css/resultado.css'
 
 //Desestruturando o resultado para pegar o valor
 const Tabela =({resultado}) => {
